@@ -38,7 +38,9 @@ I work mainly with **Flutter**, **Laravel**, **Nuxt**, and **React**, combining 
 
 💡 **Currently working on:**
 - 🏋️‍♂️ **KCal App** — a fitness & nutrition tracker (Flutter + Laravel)
-- 🎨 **Amazing Icons** — an open-source Flutter icon package with thousands of icons [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=O-Nicks&repo=amazing_icons&theme=tokyonight)](https://github.com/O-Nicks/amazing_icons)
+- 🎨 **Amazing Icons** — an open-source Flutter icon package with thousands of icons
+
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=O-Nicks&repo=amazing_icons&theme=dracula)](https://github.com/O-Nicks/amazing_icons)
 
 - 🚘 **Da auto Sport** - a garage application
 
