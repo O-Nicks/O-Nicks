@@ -109,3 +109,9 @@ I work mainly with **Flutter**, **Laravel**, **Nuxt**, and **React**, combining 
 > 💤 Sometimes I dream in Dart syntax.
 >  
 > 🚀 **My favorite feature? The one that finally compiles after 47 attempts.**
+
+<a href="https://www.buymeacoffee.com/o.nicks" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" />
+</a>
+<br>
+<br>
